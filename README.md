@@ -87,6 +87,8 @@ CCN_PROJECT/
 
 ### SAM-Body4D
 
+https://github.com/user-attachments/assets/c6d568d1-449e-4294-bdad-b093cedf1d6b
+
 https://github.com/user-attachments/assets/076943fd-f223-4d75-b731-1a4534eb88b4
 
 https://github.com/user-attachments/assets/41629462-307e-4380-83b3-4ae6e64a12e7
@@ -95,6 +97,8 @@ https://github.com/user-attachments/assets/41629462-307e-4380-83b3-4ae6e64a12e7
 ---
 
 ### GEM-X
+
+https://github.com/user-attachments/assets/f3dd4bff-1be3-46ae-8cb9-f7dc2b02cf2d
 
 https://github.com/user-attachments/assets/f3149f17-7d01-4a09-abda-94e842ece73d
 
