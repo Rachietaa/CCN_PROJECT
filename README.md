@@ -79,7 +79,26 @@ CCN_PROJECT/
 
 ## 📽 Results
 
-> Result videos and output renders will be added here.
+### SAM-3D-Body
+
+<img width="1192" height="376" alt="Image" src="https://github.com/user-attachments/assets/479e7581-acb9-49fd-a145-16bff2b6ab11" />
+
+---
+
+### SAM-Body4D
+
+https://github.com/user-attachments/assets/076943fd-f223-4d75-b731-1a4534eb88b4
+
+https://github.com/user-attachments/assets/41629462-307e-4380-83b3-4ae6e64a12e7
+
+
+---
+
+### GEM-X
+
+https://github.com/user-attachments/assets/302f35ae-8971-4cf6-8807-3a841212edd5
+
+https://github.com/user-attachments/assets/520d44ee-9790-4096-84dd-dac964921f08
 
 ---
 
