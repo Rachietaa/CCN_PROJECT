@@ -58,10 +58,13 @@ Uses NVIDIA's **GEM-X** pipeline for video-based human pose estimation, followed
 
 Each notebook is self-contained and runs on **Google Colab**.
 
-1. Open the notebook in Colab
-2. Set your runtime to **A100 GPU or higher** (Runtime → Change runtime type → GPU)
-3. Add your HuggingFace token where prompted (`login(token="YOUR_TOKEN")`)
-4. Run all cells in order
+1. Open the notebook in Colab.
+2. Set your runtime to A100 GPU or higher (Runtime → Change runtime type → GPU).
+3. Add your Hugging Face token where prompted.
+4. Run all cells in order. For SAMBody4D, a Gradio link will be generated, which you can use to access the app.
+5. In the Gradio app, first upload the input video. Then select one target and click Add Target. Next, select the next target and again click Add Target, and continue this process for all targets.
+6. Click Mask Generation to generate the masked video, which will appear as the output.
+7. Finally, click 4D Generation to view the meshed 3D body generation.
 
 ---
 
