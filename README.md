@@ -89,8 +89,6 @@ CCN_PROJECT/
 
 https://github.com/user-attachments/assets/c6d568d1-449e-4294-bdad-b093cedf1d6b
 
-https://github.com/user-attachments/assets/076943fd-f223-4d75-b731-1a4534eb88b4
-
 https://github.com/user-attachments/assets/41629462-307e-4380-83b3-4ae6e64a12e7
 
 
