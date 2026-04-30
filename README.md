@@ -96,7 +96,7 @@ https://github.com/user-attachments/assets/41629462-307e-4380-83b3-4ae6e64a12e7
 
 ### GEM-X
 
-https://github.com/user-attachments/assets/302f35ae-8971-4cf6-8807-3a841212edd5
+https://github.com/user-attachments/assets/f3149f17-7d01-4a09-abda-94e842ece73d
 
 https://github.com/user-attachments/assets/520d44ee-9790-4096-84dd-dac964921f08
 
